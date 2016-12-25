@@ -2,4 +2,5 @@
 
 # LIST OF PROJECTS
 
-! 1. Analog and Digital clock
+1. Analog and Digital clock
+
