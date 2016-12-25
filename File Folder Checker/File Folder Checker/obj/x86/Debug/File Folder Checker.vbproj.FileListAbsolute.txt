@@ -1,0 +1,12 @@
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\File Folder Checker\bin\Debug\File Folder Checker.exe
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\File Folder Checker\bin\Debug\File Folder Checker.pdb
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\File Folder Checker\bin\Debug\File Folder Checker.xml
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\File Folder Checker\obj\x86\Debug\File_Folder_Checker.Resources.resources
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\File Folder Checker\obj\x86\Debug\File Folder Checker.vbproj.GenerateResource.Cache
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\File Folder Checker\obj\x86\Debug\File Folder Checker.exe
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\File Folder Checker\obj\x86\Debug\File Folder Checker.xml
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\File Folder Checker\obj\x86\Debug\File Folder Checker.pdb
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\File Folder Checker\obj\x86\Debug\File_Folder_Checker.formBrowseFiles.resources
+C:\Users\DEBABRATA\Desktop\VB program\lab\File Folder Checker\File Folder Checker\obj\x86\Debug\File Folder Checker.exe
+C:\Users\DEBABRATA\Desktop\VB program\lab\File Folder Checker\File Folder Checker\obj\x86\Debug\File Folder Checker.xml
+C:\Users\DEBABRATA\Desktop\VB program\lab\File Folder Checker\File Folder Checker\obj\x86\Debug\File Folder Checker.pdb

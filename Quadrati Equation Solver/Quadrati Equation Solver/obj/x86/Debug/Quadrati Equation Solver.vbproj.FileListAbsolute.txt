@@ -1,0 +1,9 @@
+C:\Users\DEBABRATA\Desktop\VB program\lab\Quadrati Equation Solver\Quadrati Equation Solver\bin\Debug\Quadrati Equation Solver.exe
+C:\Users\DEBABRATA\Desktop\VB program\lab\Quadrati Equation Solver\Quadrati Equation Solver\bin\Debug\Quadrati Equation Solver.pdb
+C:\Users\DEBABRATA\Desktop\VB program\lab\Quadrati Equation Solver\Quadrati Equation Solver\bin\Debug\Quadrati Equation Solver.xml
+C:\Users\DEBABRATA\Desktop\VB program\lab\Quadrati Equation Solver\Quadrati Equation Solver\obj\x86\Debug\Quadrati_Equation_Solver.formEquSolver.resources
+C:\Users\DEBABRATA\Desktop\VB program\lab\Quadrati Equation Solver\Quadrati Equation Solver\obj\x86\Debug\Quadrati_Equation_Solver.Resources.resources
+C:\Users\DEBABRATA\Desktop\VB program\lab\Quadrati Equation Solver\Quadrati Equation Solver\obj\x86\Debug\Quadrati Equation Solver.vbproj.GenerateResource.Cache
+C:\Users\DEBABRATA\Desktop\VB program\lab\Quadrati Equation Solver\Quadrati Equation Solver\obj\x86\Debug\Quadrati Equation Solver.exe
+C:\Users\DEBABRATA\Desktop\VB program\lab\Quadrati Equation Solver\Quadrati Equation Solver\obj\x86\Debug\Quadrati Equation Solver.xml
+C:\Users\DEBABRATA\Desktop\VB program\lab\Quadrati Equation Solver\Quadrati Equation Solver\obj\x86\Debug\Quadrati Equation Solver.pdb

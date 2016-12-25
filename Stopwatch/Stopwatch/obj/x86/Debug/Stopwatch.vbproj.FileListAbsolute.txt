@@ -1,0 +1,12 @@
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Stopwatch\bin\Debug\Stopwatch.exe
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Stopwatch\bin\Debug\Stopwatch.xml
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Stopwatch\obj\x86\Debug\Stopwatch.formStopwatch.resources
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Stopwatch\obj\x86\Debug\Stopwatch.Resources.resources
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Stopwatch\obj\x86\Debug\Stopwatch.vbproj.GenerateResource.Cache
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Stopwatch\obj\x86\Debug\Stopwatch.exe
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Stopwatch\obj\x86\Debug\Stopwatch.xml
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Stopwatch\obj\x86\Debug\Stopwatch.pdb
+C:\Users\DEBABRATA\Desktop\VB program\lab\Stopwatch\Stopwatch\obj\x86\Debug\Stopwatch.exe
+C:\Users\DEBABRATA\Desktop\VB program\lab\Stopwatch\Stopwatch\obj\x86\Debug\Stopwatch.xml
+C:\Users\DEBABRATA\Desktop\VB program\lab\Stopwatch\Stopwatch\obj\x86\Debug\Stopwatch.pdb

@@ -1,0 +1,9 @@
+C:\Users\DEBABRATA\Desktop\VB program\lab\Count\Count\bin\Debug\Count.exe
+C:\Users\DEBABRATA\Desktop\VB program\lab\Count\Count\bin\Debug\Count.pdb
+C:\Users\DEBABRATA\Desktop\VB program\lab\Count\Count\bin\Debug\Count.xml
+C:\Users\DEBABRATA\Desktop\VB program\lab\Count\Count\obj\x86\Debug\Count.formCount.resources
+C:\Users\DEBABRATA\Desktop\VB program\lab\Count\Count\obj\x86\Debug\Count.Resources.resources
+C:\Users\DEBABRATA\Desktop\VB program\lab\Count\Count\obj\x86\Debug\Count.vbproj.GenerateResource.Cache
+C:\Users\DEBABRATA\Desktop\VB program\lab\Count\Count\obj\x86\Debug\Count.exe
+C:\Users\DEBABRATA\Desktop\VB program\lab\Count\Count\obj\x86\Debug\Count.xml
+C:\Users\DEBABRATA\Desktop\VB program\lab\Count\Count\obj\x86\Debug\Count.pdb

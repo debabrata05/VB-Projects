@@ -1,0 +1,15 @@
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Text File Into List Box\bin\Debug\Text File Into List Box.exe
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Text File Into List Box\bin\Debug\Text File Into List Box.pdb
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Text File Into List Box\bin\Debug\Text File Into List Box.xml
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Text File Into List Box\obj\x86\Debug\Text_File_Into_List_Box.formTextFileIntoListBox.resources
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Text File Into List Box\obj\x86\Debug\Text_File_Into_List_Box.Resources.resources
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Text File Into List Box\obj\x86\Debug\Text File Into List Box.vbproj.GenerateResource.Cache
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Text File Into List Box\obj\x86\Debug\Text File Into List Box.exe
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Text File Into List Box\obj\x86\Debug\Text File Into List Box.xml
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Text File Into List Box\obj\x86\Debug\Text File Into List Box.pdb
+C:\Users\DEBABRATA\Desktop\VB program\lab\Text File Into List Box\Text File Into List Box\obj\x86\Debug\Text File Into List Box.exe
+C:\Users\DEBABRATA\Desktop\VB program\lab\Text File Into List Box\Text File Into List Box\obj\x86\Debug\Text File Into List Box.xml
+C:\Users\DEBABRATA\Desktop\VB program\lab\Text File Into List Box\Text File Into List Box\obj\x86\Debug\Text File Into List Box.pdb
+E:\study time\VB program\lab\Text File Into List Box\Text File Into List Box\obj\x86\Debug\Text File Into List Box.exe
+E:\study time\VB program\lab\Text File Into List Box\Text File Into List Box\obj\x86\Debug\Text File Into List Box.xml
+E:\study time\VB program\lab\Text File Into List Box\Text File Into List Box\obj\x86\Debug\Text File Into List Box.pdb

@@ -1,0 +1,12 @@
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Desktop Wallpaper Changer\bin\Debug\Desktop Wallpaper Changer.exe
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Desktop Wallpaper Changer\bin\Debug\Desktop Wallpaper Changer.pdb
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Desktop Wallpaper Changer\bin\Debug\Desktop Wallpaper Changer.xml
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Desktop Wallpaper Changer\obj\x86\Debug\Desktop_Wallpaper_Changer.formSetDesktopBackground.resources
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Desktop Wallpaper Changer\obj\x86\Debug\Desktop_Wallpaper_Changer.Resources.resources
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Desktop Wallpaper Changer\obj\x86\Debug\Desktop Wallpaper Changer.vbproj.GenerateResource.Cache
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Desktop Wallpaper Changer\obj\x86\Debug\Desktop Wallpaper Changer.exe
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Desktop Wallpaper Changer\obj\x86\Debug\Desktop Wallpaper Changer.xml
+C:\Users\DEBABRATA\AppData\Local\Temporary Projects\Desktop Wallpaper Changer\obj\x86\Debug\Desktop Wallpaper Changer.pdb
+C:\Users\DEBABRATA\Desktop\VB program\lab\Desktop Wallpaper Changer\Desktop Wallpaper Changer\obj\x86\Debug\Desktop Wallpaper Changer.exe
+C:\Users\DEBABRATA\Desktop\VB program\lab\Desktop Wallpaper Changer\Desktop Wallpaper Changer\obj\x86\Debug\Desktop Wallpaper Changer.xml
+C:\Users\DEBABRATA\Desktop\VB program\lab\Desktop Wallpaper Changer\Desktop Wallpaper Changer\obj\x86\Debug\Desktop Wallpaper Changer.pdb
